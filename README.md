@@ -1,9 +1,9 @@
 # codingColor
 
-Autore: Michele Ren;
+Autore: Michele Ren
 
-Scuola: ITTS A.Volta, PG;
+Scuola: ITTS A.Volta, PG
 
-Classe: 4Ainf;
+Classe: 4Ainf
 
-Corso di studio: Informatica;
+Corso di studio: Informatica
