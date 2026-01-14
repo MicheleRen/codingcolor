@@ -37,10 +37,11 @@ function elabora() {
 
 }
 
-function reset() {
+function annulla() {
     document.getElementById("inNumber").value = "";
     document.getElementById('inText').value = "";
     document.getElementById("outText").innerHTML = "Output";
-    document.getElementById("outText").style.color = "green";
+    document.getElementById("outText").style.color = "blue";
     document.getElementById("error").innerHTML = "";
 }
+
